@@ -1,3 +1,3 @@
 # W2_Exercises
 
-(Week 2) add files for week 2
+Week 2 of exercise files. Worked with SQL queries, importing data and creating ER diagrams
